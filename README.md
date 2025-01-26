@@ -4,7 +4,7 @@ This repository contains a Microsoft Excel dashboard designed for managing and a
 
 ## File Overview
   -	**File Name**: Coffee Shop.xlsx
-  -	**Software Required**: Microsoft Excel (version 2016 or later recommended)
+  -	**Software Required**: Microsoft Excel and Power Querry
   -	**Sheet Details**:
       -	**Dashboard**: Summary page with all key visualizations.
       -	**Raw Data**: The underlying dataset for analysis.
