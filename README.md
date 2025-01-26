@@ -17,6 +17,9 @@ This repository contains a Microsoft Excel dashboard designed for managing and a
   -	**Pre-Built Charts**: Dynamic charts for sales trends, popular products, and more.
 
 
+![Image](https://github.com/user-attachments/assets/29913f9f-b3c4-4827-86c5-9bc682dac56b)
+
+
 ## Use Cases
   -	Tracking daily, weekly, or monthly sales performance.
   -	Identifying top-performing products.
